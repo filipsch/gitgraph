@@ -1,4 +1,4 @@
-# Git flows for Magics
+# Gitgraph tryout
 
 ## Installation
 
