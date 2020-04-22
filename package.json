@@ -1,0 +1,19 @@
+{
+  "name": "gitgraph",
+  "version": "0.0.1",
+  "description": "Git graphs for Magics",
+  "main": "y",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "git",
+    "tooling",
+    "workflows"
+  ],
+  "author": "filip.schouwenaars@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "@gitgraph/js": "^1.3.5"
+  }
+}
