@@ -13,7 +13,7 @@ npm install
 Update the `main.js` file. When you want to see it in action, bundle the dependencies and your code into `bundle.js` with browserify and open the webpage that includes `bundle.js`:
 
 ```
-browserify main.js -o bundle.js
+npx browserify main.js -o bundle.js
 open index.html
 ```
 
